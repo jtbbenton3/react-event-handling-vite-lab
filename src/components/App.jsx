@@ -7,6 +7,7 @@ function App() {
 
   return (
     <div>
+      <h1>Enter your password</h1>
       <PasswordInput/>
       <SubmitButton/>
     </div>
